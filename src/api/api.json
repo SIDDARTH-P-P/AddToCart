@@ -1,0 +1,17 @@
+[
+    {
+        "id":0,
+        "image":"https://cdn1.smartprix.com/rx-iVyp4t2Vm-w1200-h1200/Vyp4t2Vm.jpg",
+        "title":"iphone"
+    },
+    {
+        "id":1,
+        "image":"https://img.etimg.com/photo/msid-98945513,imgsize-249226/SamsungGalaxyA23.jpg",
+        "title":"samsung"
+    },
+    {
+        "id":2,
+        "image":"https://img.etimg.com/photo/msid-98987207,imgsize-56572/RedmiK50i.jpg",
+        "title":"redmi"
+    }
+]
